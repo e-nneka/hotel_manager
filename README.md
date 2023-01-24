@@ -1,10 +1,10 @@
 # Project Title
-Hotel Manager
+# Hotel Manager
 
-#Project Description
+# Project Description
 Hotel Manager is a decentralised hotel booking platform where hotel owners or managers can register their hotels, add rooms, set the prices of each room type and update the availability of the rooms. Customers can book a room by specifying the number of nights they want to stay and the type of room they want. The total cost of the booking is calculated and the customer is allowed to make the payment via a metamask account. The payment is made directly to the managers metamask account and a keycode is issued to the customer afterwards. The track record of bookings made are kept and bookings can be canceled if necessary.
 
-#Project Website Link
+# Project Website Link
 https://hotel-manager-gray.vercel.app/
 
 
