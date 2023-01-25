@@ -19,16 +19,43 @@ This project was bootstrapped with Create React App.
 Available Scripts
 In the project directory, you can run:
 
-npm start
+# npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-npm test
+# npm test
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
+
+Dappazon
+Technology Stack & Tools
+Solidity (Writing Smart Contracts & Tests)
+Javascript (React & Testing)
+Hardhat (Development Framework)
+Ethers.js (Blockchain Interaction)
+React.js (Frontend Framework)
+
+
+Requirements For Initial Setup
+Install NodeJS
+
+ Install Dependencies:
+$ npm install
+
+Run tests
+$ npx hardhat test
+
+ Start Hardhat node
+$ npx hardhat node
+
+Run deployment script
+In a separate terminal execute: $ npx hardhat run ./scripts/deploy.js --network localhost
+
+Start frontend
+$ npm run start
 
 npm run build
 Builds the app for production to the build folder.
