@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Celia's Suites",
+      "category": "queens",
+      "image": "https://bafybeiay3yulauut2xfjuo6i7ryt73do222i65bd7t46iodxbr73ztn26u.ipfs.nftstorage.link/devon-janse-van-rensburg-LUvdI4uCNnM-unsplash.jpg",
+      "price": "1",
+      "rating": 4,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Axari Queens Room",
+      "category": "queens",
+      "image": "https://bafybeiay3yulauut2xfjuo6i7ryt73do222i65bd7t46iodxbr73ztn26u.ipfs.nftstorage.link/isaac-quesada-xc4oxgAbDmw-unsplash.jpg",
+      "price": "2",
+      "rating": 5,
+      "stock": 6
+    },
+    {
+      "id": 3,
+      "name": "One-Bedroom Apartment",
+      "category": "queens",
+      "image": "https://bafybeiay3yulauut2xfjuo6i7ryt73do222i65bd7t46iodxbr73ztn26u.ipfs.nftstorage.link/mky-moody-AUF6Gl4wwzA-unsplash.jpg",
+      "price": "0.25",
+      "rating": 2,
+      "stock": 24
+    },
+    {
+      "id": 4,
+      "name": "Deluxe Single Room",
+      "category": "single",
+      "image": "https://bafybeiay3yulauut2xfjuo6i7ryt73do222i65bd7t46iodxbr73ztn26u.ipfs.nftstorage.link/point3d-commercial-imaging-ltd-2kE9j3aEeiA-unsplash.jpg",
+      "price": "0.25",
+      "rating": 5,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "Twin Room",
+      "category": "single",
+      "image": "https://bafybeiay3yulauut2xfjuo6i7ryt73do222i65bd7t46iodxbr73ztn26u.ipfs.nftstorage.link/point3d-commercial-imaging-ltd-DLzYCkMkjBQ-unsplash.jpg",
+      "price": "0.10",
+      "rating": 4,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "One-Bedroom Apartment",
+      "category": "single",
+      "image": "https://bafybeiay3yulauut2xfjuo6i7ryt73do222i65bd7t46iodxbr73ztn26u.ipfs.nftstorage.link/reisetopia-Y7WfCuz5tn0-unsplash.jpg",
+      "price": "1.25",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 7,
+      "name": "Swiss International",
+      "category": "executives",
+      "image": "https://bafybeiay3yulauut2xfjuo6i7ryt73do222i65bd7t46iodxbr73ztn26u.ipfs.nftstorage.link/sidekix-media-ghhDWuGK9QY-unsplash.jpg",
+      "price": "0.05",
+      "rating": 4,
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "name": "Tahir Guest Palace",
+      "category": "executives",
+      "image": "https://bafybeiay3yulauut2xfjuo6i7ryt73do222i65bd7t46iodxbr73ztn26u.ipfs.nftstorage.link/steven-ungermann-aRT5UCf2MYY-unsplash.jpg",
+      "price": "0.20",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 9,
+      "name": "Beniks courtyard",
+      "category": "executives",
+      "image": "https://bafybeiay3yulauut2xfjuo6i7ryt73do222i65bd7t46iodxbr73ztn26u.ipfs.nftstorage.link/tyler-schaefer-Lrce4YHmybc-unsplash.jpg",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12
+    }
+  ]
+}
