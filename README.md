@@ -30,8 +30,7 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-Dappazon
-Technology Stack & Tools
+# Hotel Manager Technology Stack & Tools
 Solidity (Writing Smart Contracts & Tests)
 Javascript (React & Testing)
 Hardhat (Development Framework)
