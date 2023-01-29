@@ -1,6 +1,30 @@
-require("@nomicfoundation/hardhat-toolbox");
+require("@nomiclabs/hardhat-waffle");
+require('dotenv').config()
 
-/** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
-  solidity: "0.8.17",
-};
+  defaultNetwork: "localhost",
+  networks: {
+    hardhat: {
+    },
+    localhost: {
+      url: "http://127.0.0.1:8545"
+    },
+    goerli: {
+      url: process.env.ENDPOINT_URL,
+      accounts: [process.env.DEPLOYER_KEY]
+    }
+  },
+  solidity: {
+    version: '0.8.11',
+    settings: {
+      optimizer: {
+        enabled: true,
+        runs: 200
+      }
+    }
+  },
+  
+  mocha: {
+    timeout: 40000
+  }
+}
