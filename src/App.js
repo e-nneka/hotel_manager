@@ -35,7 +35,7 @@ function App() {
     setProvider(provider)
     const network = await provider.getNetwork()
 
-    const dappazon = new ethers.Contract(config[network.chainId].dappazon.address, Dappazon, provider)
+    const dappazon = new ethers.Contract(config[network.chainId].Dappazon.address, Dappazon, provider)
     setDappazon(dappazon)
 
     const items = []
